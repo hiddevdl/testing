@@ -14,5 +14,14 @@
   "dependencies": {
     "express": "^4.6.1",
     "logfmt": "^1.1.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hiddevdl/testing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hiddevdl/testing/issues"
+  },
+  "homepage": "https://github.com/hiddevdl/testing"
 }
