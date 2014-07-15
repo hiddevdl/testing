@@ -1,25 +1,23 @@
 {
   "name": "node.test",
   "version": "0.0.0",
-  "description": "testing",
-  "main": "web.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "hidde",
-  "license": "MIT",
-  "keywords": [
-    "testing"
-  ],
+  "description": "does it fly?",
+  "main": "server.js",
   "dependencies": {
     "express": "^4.6.1",
     "logfmt": "^1.1.2"
   },
   "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/hiddevdl/testing.git"
   },
+  "author": "hidde",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/hiddevdl/testing/issues"
   },
